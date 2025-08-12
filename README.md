@@ -26,5 +26,9 @@ Program structure:
 > viewer.py - visualizes the 3D EM waves
 > GUI.py - handles the actual application user interface with tkinter
 
+GUI that takes in user input and simulates the EM waves with an option of seeing translucent planes:
+<img width="1055" height="751" alt="Screenshot 2025-08-11 at 10 10 24 PM" src="https://github.com/user-attachments/assets/afb3e9d7-ee7f-499f-8d33-7f861a842acf" />
+
+
 
 Enjoy!!!
