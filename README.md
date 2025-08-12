@@ -7,7 +7,10 @@ Features:
 >Real-time animated visualization of E and B field components.
 >Simple and educational interface for learning maxwell's equations visually
 
-Tech Stack: Python, Matplotlib (for plotting and animation), NumPy (for numerical calculations), Tkinter (for GUI controls and parameter inputs)
+Tech Stack: 
+>Python, Matplotlib (for plotting and animation)
+>NumPy (for numerical calculations)
+>Tkinter (for GUI controls and parameter inputs)
 
 How to use:
 >Ensure that you have python 3 installed.
