@@ -1,4 +1,4 @@
-E&M Wave Simulator
+# E&M Wave Simulator
 >This is an interactive electromagnetic wave simulator built with Python with an intuitive GUI for visualizing electric E and magnetic B field components of plane waves.
 >This project uses Matplotlib, NumPy, and Tkinter to provide a dynamic and customizable experience for exploring the fundamentals of wave propagation.
 
