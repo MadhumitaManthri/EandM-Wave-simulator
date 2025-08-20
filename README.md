@@ -1,6 +1,6 @@
 # E&M Wave Simulator
 
-# Timeline:
+Timeline:
 - Development: Apr 2025 to May 2025
 - Public github release: aug 2025
 
